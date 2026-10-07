@@ -1,0 +1,17 @@
+# Служебные файлы 1С
+*.cf
+*.cfe
+*.epf
+*.erf
+*.dt
+*.1cd
+*.log
+
+# Временные файлы Конфигуратора
+ConfigDumpInfo.xml
+*.bak
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
